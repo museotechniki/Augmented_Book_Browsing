@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>7743_113.jpg</filename>
+	<path>/media/nikmaniatis/Elements SE/book_AR_browser/Photos/images/resized/train/7743_113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1067</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aa6-14_17</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>161</ymin>
+			<xmax>498</xmax>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aa6-18_23</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>71</ymin>
+			<xmax>1062</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>
