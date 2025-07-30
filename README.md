@@ -1,44 +1,42 @@
-# Augmented Browsing of Books in Historic Libraries
+# Book Finder App
 
-**Lead Research Organisation:** University of the Arts London  
-**Department:** CCW Grad School  
-**Project URL:** [UKRI Project Reference AH/R010102/1](https://gtr.ukri.org/projects?ref=AH%2FR010102%2F1)
+**Book Finder** is a web-based application that uses the *Wimpole model*, an AI object recognition system, to identify books from their spines without removing them from the shelves. It retrieves detailed metadata about each book and makes previously inaccessible historic collections available to the public through augmented reality.
 
----
+## Project Background
 
-## Abstract
+This tool was developed as part of the **Augmented Browsing of Books in Historic Libraries** project led by the University of the Arts London (CCW Graduate School). The project aimed to address a common issue in historic houses and libraries, where books, despite being significant collections, are not accessible to visitors. A notable case is **Wimpole Hall**, which holds a fully catalogued but physically inaccessible book collection.
 
-This project addresses a significant problem in historic houses: the fact that books, which are among their most important collections, are not accessible to visitors. This is a widespread issue in historic university and cathedral libraries, as well as in many National Trust properties. A notable example is **Wimpole Hall**, where the fully catalogued book collection remains inaccessible to visitors.
+The solution involves mobile-based AR technology allowing users to hover their phone cameras in front of book spines to identify volumes and access detailed information without handling the physical objects.
 
-The aim of the project is to make such library collections available to the public through **Augmented Reality (AR)** technology, enabling on-site browsing of books via a mobile device without removing them from the shelves. This approach eliminates the risk of damage and enriches the visitor experience by extending access to the library collections.
+More about the research project: [UKRI Project Reference AH/R010102/1](https://gtr.ukri.org/projects?ref=AH%2FR010102%2F1)
 
-The project brings together experts in augmented reality and book history to produce a pilot system for a small number of books at Wimpole Hall. The system identifies individual volumes by hovering a mobile phone camera in front of a shelf and overlays relevant metadata and content in front of the live camera feed. This system will be tested on-site at Wimpole Hall with members of the public.
+## Features
 
----
+- Identifies books via AI by analysing the spine without removing the book.
+- Displays metadata and contextual information through an AR interface.
+- Protects delicate historical books by enabling touchless access.
+- Enhances visitor experiences in historic libraries and properties.
 
-## Book Finder App
+## Technology
 
-**Title:** Book Finder App  
-**Description:**  
-Book Finder uses the *Wimpole model*—an AI object recognition model—to identify books from their spines without the need to remove them from the shelves. It retrieves detailed information about each book using supporting metadata.
+- **Type:** Webtool / Application  
+- **AI Model:** Wimpole model (object recognition)  
+- **Year Produced:** 2018  
+- **Licence:** Open Source  
 
-**Type of Technology:** Webtool / Application  
-**Year Produced:** 2018  
-**Open Source Licence:** Yes  
-**Impact:**  
-The tool enables members of the public to discover and access detailed information about historic books that would otherwise remain unseen.
+## Impact
 
-**Source Code:** [GitHub Repository](https://github.com/museotechniki/augmented_book_browsing)
+Book Finder allows members of the public to explore and engage with historic book collections that would otherwise remain unseen. It supports interpretation, education, and conservation by providing accessible digital interactions.
 
----
+## Partners & Stakeholders
 
-## Key Partners
+**Key Partners:**
 
 - Ligatus, University of the Arts London  
 - Museotechniki  
-- National Trust
+- National Trust  
 
-## Key Stakeholders
+**Key Stakeholders:**
 
 - Institute of English Studies, University of London  
 - University of Uppsala Library  
